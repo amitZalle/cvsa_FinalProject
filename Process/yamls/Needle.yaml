@@ -1,0 +1,6 @@
+path: /home/student/FinalProject/synthetic_data/needle/
+train: train/images
+val: validation/images
+
+nc: 3
+names: ['Empty', 'Needle_driver', 'Tweezers']

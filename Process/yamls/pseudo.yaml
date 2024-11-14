@@ -1,0 +1,6 @@
+path: /home/student/FinalProject/pseudo_data/HCframes_1/yolo_data/
+train: train/images
+val: val/images
+
+nc: 3
+names: ['Empty', 'Tweezers', 'Needle_driver']
