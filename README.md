@@ -21,6 +21,8 @@ To use the existing models, you can download the selected weight from "https://d
 
 For the creation of the data run "synthetic_data_generator.py". for this you must add the data to the files, and adjust the path to it in the python file.
 
+For the existing video results you can check "https://drive.google.com/file/d/1J3sWY51mImj7LFsfR311j_3d5mINoSc5/view?usp=drive_link" for synthetic data and "https://drive.google.com/file/d/1nE2GMbvM6UM8dLG9P7Nanp9WADs7zj6D/view?usp=drive_link" for domain adaptation.
+
 
 
 
