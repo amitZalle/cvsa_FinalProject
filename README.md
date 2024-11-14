@@ -17,7 +17,7 @@ pip install ultralytics
 
 
 
-To use the existing models, you can download the selected weight from "..." and run either "predict.py" for image or "video.py" for video. make sure to adjust the path to the weights and video/image.
+To use the existing models, you can download the selected weight from "https://drive.google.com/file/d/18375DVlkNSvhy_yBjv9sEtmGl1jSWCcW/view?usp=drive_link" and run either "predict.py" for image or "video.py" for video. make sure to adjust the path to the weights and video/image.
 
 For the creation of the data run "synthetic_data_generator.py". for this you must add the data to the files, and adjust the path to it in the python file.
 
